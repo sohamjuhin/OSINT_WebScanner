@@ -1,7 +1,7 @@
 # OSINT_WebScanner
 OSINT_WebScanner
 
-# This code will first import the requests, bs4, and json Python libraries. These libraries will be used to get a web page, to parse the web page, and to parse JSON data.
+#This code will first import the requests, bs4, and json Python libraries. These libraries will be used to get a web page, to parse the web page, and to parse JSON data.
 
 The get_web_page() function will then be defined. This function will get a web page by making a request to the specified URL. The requests library will be used to make the request.
 
